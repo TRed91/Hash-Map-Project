@@ -164,32 +164,3 @@ class HashMap {
 }
 
 let table = new HashMap;
-
-table.set('Thomas', 33)
-table.set('Christina', 31)
-table.set('Karl', 63)
-table.set('Andrea', 60)
-table.set('Harry', 17)
-table.set('Hermione', 16)
-table.set('Ron', 17)
-table.set('Albus', 88)
-table.set('Severus', 53)
-table.set('Sirius', 42)
-table.set('Ginni', 14)
-table.set('Fred', 18)
-table.set('Hagrid', 62)
-table.set('Draco', 16)
-table.set('Tav', 31)
-table.set('Sara', 24)
-table.set('Mario', 42)
-table.set('Luigi', 42)
-table.set('Bowser', 97)
-table.set('Peach', 21)
-table.set('Luna', 15)
-table.set('Claire', 28)
-table.set('Sherry', 12)
-table.set('Leon', 29)
-table.set('Ada', 30)
-table.set('Anette', 41)
-
-console.log(table)
